@@ -1,11 +1,11 @@
 ## Hello World! 🌎
 
 ### Bio 
-Me chamo Gabriel Rodrigues de Oliveira, tenho 21 anos e sou aluno de Análise e Desenvolvimento de Sistemas.
+Me chamo Gabriel Rodrigues de Oliveira, tenho 22 anos, trabalho como implantador na empresa DJSystem Automação Comercial e sou aluno de Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
 
 <hr>
 
-### Tecnologias que eu tenho algum conhecimento!!! 💻
+### Tecnologias que eu tenho conhecimento!!! 💻
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +21,12 @@ Apaixonado por tecnologia, sempre me atualizando e estudando para evoluir cada d
 
 <hr>
 
-### Fale comigo:
+### Redes:
 
+<a href = "https://wa.me/5515998519914" target = "_blank"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "Whatsapp" /></a>
+<a href = "https://www.linkedin.com/in/gabriel-rodrigues-de-oliveira-33104b251/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" /></a>
+
+<!--
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515998519914)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-de-oliveira-33104b251/)
+--> 
