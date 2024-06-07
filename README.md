@@ -23,5 +23,5 @@ Apaixonado por tecnologia, sempre me atualizando e estudando para evoluir cada d
 
 ### Fale comigo:
 
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515998519914)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-de-oliveira-33104b251/)
+[![Blog]{(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515998519914):target="_blank"}
+[![Blog]{(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-de-oliveira-33104b251/):target="_blank"}
