@@ -20,21 +20,21 @@ Here, I share projects that showcase my passion for technology, system developme
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-6959CD?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-483D8B?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="pascal" src="https://img.shields.io/badge/Pascal-FFE4C4?style=for-the-badge&logo=pascal.ico&logoColor=white">
-    <img align="center" alt="tlpp" src="https://img.shields.io/badge/TLPP-000000?style=for-the-badge&logo=tlpp.ico&logoColor=white">
+    <img align="center" alt="pascal" src="https://img.shields.io/badge/Pascal-FFE4C4?style=for-the-badge&logo=pascal&logoColor=white">
+    <img align="center" alt="tlpp" src="https://img.shields.io/badge/TLPP-000000?style=for-the-badge&logo=tlpp&logoColor=white">
     <br>
     <h3>Frameworks</h3>
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img align="center" alt="springboot" src="https://img.shields.io/badge/Springboot-2E8B57?style=for-the-badge&logo=springboot.ico&logoColor=white">
-    <img align="center" alt="lazarus" src="https://img.shields.io/badge/Lazarus-00008B?style=for-the-badge&logo=lazarus.ico&logoColor=white">
+    <img align="center" alt="springboot" src="https://img.shields.io/badge/Springboot-2E8B57?style=for-the-badge&logo=springboot&logoColor=white">
+    <img align="center" alt="lazarus" src="https://img.shields.io/badge/Lazarus-00008B?style=for-the-badge&logo=lazarus&logoColor=white">
     <br>
     <h3>Databases</h3>
-    <img align="center" alt="firebird" src="https://img.shields.io/badge/Firebird-E34F26?style=for-the-badge&logo=firebird.ico&logoColor=white">
+    <img align="center" alt="firebird" src="https://img.shields.io/badge/Firebird-E34F26?style=for-the-badge&logo=firebird&logoColor=white">
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <br>
     <h3>OS</h3>
-    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows.ico&logoColor=white">
+    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="linux" src="https://img.shields.io/badge/Ubuntu-1C1C1C?style=for-the-badge&logo=ubuntu&logoColor=white">
     <br><br>
 </div>
