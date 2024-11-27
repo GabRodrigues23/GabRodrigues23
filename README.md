@@ -1,8 +1,8 @@
-## Hello World! ![Globe](globe.png)
+## Hello World! ![Globe](globe.gif)
 Welcome to mu GitHub!
 Here, I share projects that showcase my passion for technology, system development, and problem-solving. ❤️
 
-![Banner](banner.png)
+![Banner](banner.gif)
 
 <hr>
 
