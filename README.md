@@ -1,12 +1,19 @@
 ## Hello World! ![Globe](globe.gif)
-Welcome to mu GitHub!
-Here, I share projects that showcase my passion for technology, system development, and problem-solving. ❤️
+👉 Welcome to my GitHub!<br>👉
+Here, I share projects that showcase my passion for technology, system development, and problem-solving.
 
 ![Banner](banner.gif)
 
 <hr>
 
-## Technologies & Tools 💻
+## 💡 About Me
+I am a technology enthusiast and passionate about developing applications that solve problems and create value. Always in search of knowledge, I believe that learning is a continuous process that motivates me to explore and master new skills. 🌟
+
+> "All learning is a form of growth, and all growth is a form of evolution." – Bruce Lee
+
+<br>
+
+## 💻 Technologies & Tools
 
 <div style="display: inline_block">
     <h3>Languages</h3>
@@ -39,6 +46,7 @@ Here, I share projects that showcase my passion for technology, system developme
     <br><br>
 </div>
 
+## Technologies & Tools 💻
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabRodrigues23&show_icons=true&theme=tokyonight)
 
 <hr>
